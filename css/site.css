@@ -65,12 +65,12 @@ body{
 	bottom: 0
 }
 
-#avatar{
+#avt{ 
 	display: flex;
 	justify-content: center;
 }
 
-#avatar img{
+#avt img{
 	width: 200px;
 	height: 200px;
 	position: relative;
@@ -83,11 +83,6 @@ body{
 	margin-top: 240px;
 	color: #FFF;
 	bottom: 0;
-}
-
-#content i{
-	font-size: 20px;
-	margin-right: 8px;
 }
 
 h2::after{
@@ -110,7 +105,7 @@ ul li{
 .learning,
 .products,
 .photo,
-.album{
+.album-photo{
 	margin-top: 48px;
 }
 
